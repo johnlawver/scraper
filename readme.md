@@ -7,7 +7,11 @@
 - extract all relevant fields from json data and clean
 - generate secure temp password for new employees
 - determine external vs internal emnployee
+- populate displayname and email based on hr rules
+- put user in proper ou
+- provide correct manager
+- create CSV
 
 v0.1
 
-> Basic script to scrape data from jira tickets to create CSV for Bettercloud to automate account creation
+> Basic proof of concept that takes name and returns CSV for Bettercloud bulk update.
