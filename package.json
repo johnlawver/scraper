@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "0.0.1",
+  "description": "Jira Scraper",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnlawver/scraper.git"
+  },
+  "author": "John Lawver",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnlawver/scraper/issues"
+  },
+  "homepage": "https://github.com/johnlawver/scraper#readme",
+  "dependencies": {
+    "password-generator": "^2.2.0"
+  }
+}
