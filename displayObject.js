@@ -1,3 +1,3 @@
-let getEmployeeObject = require("./request");
+let getEmployeeObject = require('./request');
 
 console.log(getEmployeeObject());
