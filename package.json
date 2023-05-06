@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/johnlawver/scraper#readme",
   "dependencies": {
-    "password-generator": "^2.2.0"
+    "password-generator": "^2.3.2"
   }
 }
